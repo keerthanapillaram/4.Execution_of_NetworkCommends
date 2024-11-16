@@ -31,9 +31,6 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
-## Name : P Keerthana
-## Register Number: 212223240069
-
 ## Output
 
 ## Ping :
