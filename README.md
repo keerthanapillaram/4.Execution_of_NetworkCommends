@@ -1,4 +1,6 @@
 # 4.Execution_of_NetworkCommands
+## Name : Keerthana P
+## Reg no. : 212223240069
 ## AIM : 
 Use of Network commands in Real Time environment
 ## Software : 
